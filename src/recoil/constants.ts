@@ -1,3 +1,7 @@
 export enum Atoms {
-    Counter = "Counter",
+    Counter = 'Counter',
+    Products = 'Products',
+    ProductsComparator = 'ProductsComparator',
+    ProductsFilter = 'ProductsFilter',
+    Cart = 'Cart',
 }

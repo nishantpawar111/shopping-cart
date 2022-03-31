@@ -56,7 +56,8 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-, "src/components/cards/index.jsx", "src/components/button/index.jsx"  ],
+// , "src/components/cards/index.jsx", "src/components/button/index.jsx", "src/components/header/index.jsx", "src/components/container/index.jsx", "src/components/footer/index.jsx"  
+],
   "exclude": [
     "node_modules"
   ]

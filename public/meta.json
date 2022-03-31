@@ -1,45 +1,4 @@
 {
     "name": "shopping-cart",
-    "plugins": [
-        {
-            "name": "TailwindCSS",
-            "description": "A utility-first CSS framework packed with classes like flex, pt-4, text-center and rotate-90 that can be composed to build any design, directly in your markup.",
-            "url": "https://tailwindcss.com/docs"
-        },
-        {
-            "name": "CSS / styled-jsx",
-            "description": "Next.js comes with built-in support for CSS and styled-jsx. Styled-jsx is full, scoped and component-friendly CSS support for JSX (rendered on the server or the client).",
-            "url": "https://github.com/vercel/styled-jsx"
-        },
-        {
-            "name": "Axios",
-            "description": "Promise based HTTP client for the browser and node.js.",
-            "url": "https://github.com/axios/axios"
-        },
-        {
-            "name": "SVGR",
-            "description": "Transform SVGs into React components.",
-            "url": "https://react-svgr.com/docs/getting-started/"
-        },
-        {
-            "name": "Environment Variables",
-            "description": "Use environment variables in your next.js project for server side, client or both.",
-            "url": "https://github.com/vercel/next.js/tree/canary/examples/environment-variables"
-        },
-        {
-            "name": "Recoil",
-            "description": "Recoil works and thinks like React. Add some to your app and get fast and flexible shared state.",
-            "url": "https://recoiljs.org/docs/introduction/installation"
-        },
-        {
-            "name": "ESLint",
-            "description": "A pluggable and configurable linter tool for identifying and reporting on patterns in JavaScript. Maintain your code quality with ease.",
-            "url": "https://eslint.org/docs/user-guide/getting-started"
-        },
-        {
-            "name": "Prettier",
-            "description": "An opinionated code formatter; Supports many languages; Integrates with most editors.",
-            "url": "https://prettier.io/docs/en/index.html"
-        }
-    ]
+    "products":[{"_id":"599ab3db0a9fff1318da8b00","__v":0,"image":"yellow-water-bottle.jpeg","name":"Minion Classic 750 ml  (Yellow)","price":"200"},{"_id":"599ab65e5b38a7124478f09c","__v":0,"image":"backpack.jpeg","name":"Adidas ADI STARATON 25 L Backpack  (Blue)","price":"850"},{"_id":"599ab6da5b38a7124478f09d","__v":0,"image":"combination.jpeg","name":"DEEPS 161/12 Double Sided Combination Wrench Set","price":"300"},{"_id":"599ab75c5b38a7124478f09e","__v":0,"image":"sita-warrior.jpeg","name":"Sita-Warrior of Mithila(Book 2 - Ram Chandra Series)","price":"500"},{"_id":"599ab80a5b38a7124478f09f","__v":0,"image":"wooden-house-montez.jpeg","name":"Montez Multi functional Dismounting Wisdom Wooden House  (Multicolor)","price":"629"},{"_id":"599ab8795b38a7124478f0a0","__v":0,"image":"play-toy-set.jpeg","name":"Meera's Realistic Sliceable Fruits Cutting Play Toy Set with Velcro","price":"229"},{"_id":"599ab8df5b38a7124478f0a1","__v":0,"image":"prurple-gerua.jpeg","name":"Gerua Solid Women's A-line Kurta  (Purple)","price":"434"},{"_id":"599ab9515b38a7124478f0a2","__v":0,"image":"krapal-5xl-original.jpeg","name":"Krapal Casual Printed Women's Kurti  (Black)","price":"900"},{"_id":"599aba1b5b38a7124478f0a3","__v":0,"image":"imaembmynxhaabgh.jpeg","name":"SAF Ink Painting  (13.5 inch x 22 inch)","price":"1900"},{"_id":"622b3ea38bb25e0600cf275e","image":"watch.jpeg","price":"100","name":"Fossil Watch","__v":0},{"_id":"622b409e8bb25e0600cf275f","image":"combination.jpeg","price":"1000","name":"Tool kit ","__v":0},{"_id":"622b429c8bb25e0600cf2760","image":"combination.jpeg","price":"1050","name":"Wrench toolkit ","__v":0},{"_id":"622b42b88bb25e0600cf2761","image":"play-toy-set.jpeg","price":"500","name":"Toys","__v":0},{"_id":"622b43538bb25e0600cf2762","image":"prurple-gerua.jpeg","price":"800","name":"Womens dress ","__v":0},{"_id":"622b43a28bb25e0600cf2763","image":"play-toy-set.jpeg","price":"300","name":"Kitchen set","__v":0},{"_id":"622b43be8bb25e0600cf2764","image":"prurple-gerua.jpeg","price":"1000","name":"Purple dress","__v":0},{"_id":"622b43d28bb25e0600cf2765","image":"yellow-water-bottle.jpeg","price":"100","name":"Water Bottle","__v":0},{"_id":"622b43d38bb25e0600cf2766","image":"backpack.jpeg","price":"800","name":"Adidas Bag","__v":0},{"_id":"622b44468bb25e0600cf2767","image":"watch.jpeg","price":"1000","name":"Dress","__v":0},{"_id":"622b44ad8bb25e0600cf2768","image":"wooden-house-montez.jpeg","price":"500","name":"Wooden toy house","__v":0},{"_id":"622b44b48bb25e0600cf2769","image":"watch.jpeg","price":"400","name":"Krapal casual printed","__v":0},{"_id":"622b44f58bb25e0600cf276a","image":"imaembmynxhaabgh.jpeg","price":"2000","name":"Ganesh frame","__v":0},{"_id":"622b44fd8bb25e0600cf276b","image":"sita-warrior.jpeg","price":"850","name":"Sita Warrior Book","__v":0},{"_id":"622b45358bb25e0600cf276c","image":"sita-warrior.jpeg","price":"900","name":"Ram chandra's - Sita Warrior","__v":0},{"_id":"622b45a18bb25e0600cf276d","image":"yellow-water-bottle.jpeg","price":"90","name":"Kids Water Bottle","__v":0},{"_id":"622b45ab8bb25e0600cf276e","image":"backpack.jpeg","price":"1000","name":"Adidas Backpack","__v":0},{"_id":"622b45c78bb25e0600cf276f","image":"wooden-house-montez.jpeg","price":"600","name":"Wooden house","__v":0},{"_id":"622b46138bb25e0600cf2770","image":"krapal-5xl-original.jpeg","price":"1000","name":"Dress","__v":0},{"_id":"622b46688bb25e0600cf2771","image":"imaembmynxhaabgh.jpeg","price":"2000","name":"Wall frame","__v":0},{"_id":"622b46858bb25e0600cf2772","image":"krapal-5xl-original.jpeg","price":"400","name":"Krapal casual printed","__v":0},{"_id":"622b46da8bb25e0600cf2773","image":"watch.jpeg","price":"2000","name":"Titan Watch","__v":0},{"_id":"622b46f68bb25e0600cf2774","image":"watch.jpeg","price":"4000","name":"Fossil Watch","__v":0},{"_id":"622b46f98bb25e0600cf2775","image":"perfume.jpeg","price":"500","name":"Women's perfume","__v":0},{"_id":"622b47188bb25e0600cf2776","image":"perfume.jpeg","price":"999","name":"Luxury perfume","__v":0},{"_id":"622b47268bb25e0600cf2777","image":"perfume.jpeg","price":"1999","name":"Zara perfume","__v":0},{"_id":"622b47d98bb25e0600cf2778","image":"perfume.jpeg","price":"1500","name":"Gucci perfume","__v":0},{"_id":"622b47ef8bb25e0600cf2779","image":"headphone.jpeg","price":"1000","name":"BOAT headphone","__v":0},{"_id":"622b480c8bb25e0600cf277a","image":"headphone.jpeg","price":"950","name":"Black One plus headphone","__v":0},{"_id":"622b48178bb25e0600cf277b","image":"camera.jpeg","price":"20000","name":"DSLR","__v":0},{"_id":"622b48418bb25e0600cf277c","image":"camera.jpeg","price":"30000","name":"Nikon DSLR","__v":0},{"_id":"622b48498bb25e0600cf277d","image":"headphone.jpeg","price":"1100","name":"Mi headphone","__v":0},{"_id":"622b48508bb25e0600cf277e","image":"perfume.jpeg","price":"1100","name":"Fresh perfume","__v":0}]
 }

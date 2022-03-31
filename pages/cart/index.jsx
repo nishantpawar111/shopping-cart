@@ -1,14 +1,13 @@
 import React from "react";
 
-import { Container, Header, Footer, Pagination, Cards } from "@components";
+import { Container, Header, Footer, Cart } from "@components";
 
-const Home: React.FC = () => {
+const Home = () => {
     return (
         <Container>
             <Header />
             {/* <Main /> */}
-            <Cards />
-            
+            <Cart />
             {/* <Footer /> */}
         </Container>
     );
